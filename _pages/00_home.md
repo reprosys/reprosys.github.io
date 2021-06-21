@@ -1,70 +1,80 @@
 ---
 layout: home
 permalink: /
-title: NeurIPS 2020
-desc_title: ML-RSA @ NeurIPS 2020
-description: A venue for reflection in machine learning research
+title: 
+desc_title:
+description:
 ---
 
 
-The ML-Retrospectives, Surveys & Meta-Analyses @ [NeurIPS](https://neurips.cc/) 2020 Workshop is about reflecting on machine learning research. 
-This workshop is a new edition of the previous Retrospectives Workshops at [NeurIPS'19](https://ml-retrospectives.github.io/neurips2019) and [ICML'20](https://ml-retrospectives.github.io/icml2020/) respectively. While earlier the focus of the workshop was primarily on Retrospectives, this time the focus is on surveys & meta-analyses. The enormous scale of research in AI has led to a myriad of publications. Surveys & Meta-Analyses meet the need of taking a step back and looking at a sub-field as a whole to evaluate actual progress. However, we will also accept retrospectives.
+Software and Systems for Reproducibility @ [NeurIPS](https://neurips.cc/) 2021 Workshop will promote the work of researchers building the software and systems that empower reproducible science in machine learning. Researchers will present work that focuses on, but is not limited to:
 
-**The workshop will be held on December 11, 2020.**
+- Scientific communication through software design
+- Open evaluation and benchmark tasks, *especially those that challenge current evaluation practices*
+- Open source libraries and tools
+- Computational limits to reproducibility, such as lack of transparency, deprecation, environmental impact, privacy considerations, or financial cost
+- The role of hardware and lower level software (OS, linear algebra libraries) on reproducibility
 
-In conjunction with [NeurIPS](https://neurips.cc/), the workshop will be held virtually.  Please see our [schedule](https://ml-retrospectives.github.io/neurips2020/schedule/) for details.
+
+In conjunction with [NeurIPS](https://neurips.cc/), the workshop will be held virtually.  We hope to hold regional meetups in line with public health guidelines.
 
 
 ### Confirmed Speakers
 
 <table style="width:75%">
   <tr>
-    <td style="text-align:center"><img src="https://www.comp.nus.edu.sg/~reza/img/reza.jpg" height="175"></td>
-    <td style="text-align:center"><img src="{{ '/speaker_pictures/shakir_cuba1.jpg' | prepend: site.baseurl }}" height
+    <td style="text-align:center"><img src="https://www.seas.gwu.edu/sites/g/files/zaxdzs2406/f/styles/person_main_image/public/image/barba.jpg" height="175"></td>
+    <td style="text-align:center"><img src="https://mila.quebec/wp-content/uploads/2016/03/IMG_0012-2-e1584462327833-509x676.jpg" height
     ="175
     "></td>
 
-    <td style="text-align:center"><img src="https://pbs.twimg.com/profile_images/922818437172281345/CBcv5HLL_400x400.jpg" height="175"></td>
+
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://www.comp.nus.edu.sg/~reza/">Reza Shokri</a> <br>Assistant Professor, NUS</td>
-    <td style="text-align:center"><a href="https://shakirm.com/">Shakir Mohamed</a> <br>Senior Staff Scientist, Deepmind</td>
-    <td style="text-align:center"><a href="https://lanasina.github.io/">Lana Sinapayen</a> <br>Associate Researcher, Sony CSL Kyoto</td>
+    <td style="text-align:center"><a href="https://lorenabarba.com/">Lorena Barba</a> <br>George Washington University</td>
+    <td style="text-align:center"><a href="https://bouthilx.github.io/">Xavier Bouthillier</a> <br>Université de Montréal/Mila</td>
   </tr>
   <tr>
-    <td style="text-align:center"><img src="{{ '/speaker_pictures/kilian.png' | prepend: site.baseurl
-     }}" height="175"></td>
-    <td style="text-align:center"><img src="https://people.csail.mit.edu/shibani/shibani_photo.jpg" height="175"></td>
-    <td style="text-align:center"><img src="https://mariadearteaga.files.wordpress.com/2019/02/eb2a47741.jpg" height="175"></td>
+    <td style="text-align:center"><img src="https://avatars0.githubusercontent.com/u/35882?s=460&v=4" height="175"></td>
+    <td style="text-align:center"><img src="https://i1.sndcdn.com/artworks-000649470208-gvpq29-t500x500.jpg" height="175"></td>
   </tr>
   <tr>
-  <td style="text-align:center"><a href="https://www.cs.cornell.edu/~kilian/">Kilian Q. Weinberger</a> <br>Associate Professor, Cornell/ASAP</td>
-    <td style="text-align:center"><a href="https://people.csail.mit.edu/shibani/">Shibani Santurkar</a> <br>PhD Student, MIT</td>
-    <td style="text-align:center"><a href="https://mariadearteaga.com/">Maria De-Arteaga</a> <br>Assistant Professor, UT Austin</td>
+  <td style="text-align:center"><a href="http://rush-nlp.com/">Sasha Rush</a> <br>Cornell/Hugging Face</td>
+    <td style="text-align:center"><a href="https://www.labri.fr/perso/nrougier/">Nicolas Rougier</a> <br>INRIA</td>
   </tr>
 </table>
 
 
-### Submissions?
+### Proposed Schedule
 
-We accept submissions through [CMT](https://cmt3.research.microsoft.com/MLRSA2020) in NeurIPS format which should be anonymized to remove any author related information. Submissions can be from any subfield of machine learning or related fields of interest to the NeurIPS community. 
+Times are listed in EST.
 
-**Deadline: <s>23rd October, 23:59 Anywhere on Earth</s>. Accept/reject notification will be sent out by <s>31st Oct</s> 2nd November (AoE).**
+| Opening Remarks                   |  08:00-08:15   |
+| Invited Talk 1 | 08:15-08:45   |
+| Contributed Talk 1 | 08:45-09:00   |
+| Invited Talk 2 | 09:00-09:30   |
+| Contributed Talk 2 | 09:30-09:45   |
+| Contributed Talk 3 | 09:45-10:00   |
+| Contributed Talk 4 | 10:00-10:15 |
+| Coffee Break | 10:15-10:30 |
+| Posters and Demos 1 | 10:30-11:15 |
+| Panel | 11:15-12:00 |
+| Invited Talk 3 | 12:00-12:30 |
+| Invited Talk 4 | 12:30-13:00 |
+| Lunch Break | 13:00-15:00 |
+| Invited Talk 5| 15:00-15:30 |
+| Contributed Talk 5 | 15:30-16:00 |
+| Contributed Talk 6 | 16:00-16:15 |
+| Invited Talk 6 | 16:15-16:45 |
+| Coffee Break 2 | 16:45-17:00 |
+| Breakout Discussions | 17:00-18:00 |
+| Posters and Demos 2 and Closing | 18:00-19:30 |
 
-**Final deadline to upload (contributed) paper talks: 14th November**
-
-Checkout our [CFP](https://ml-retrospectives.github.io/neurips2020/cfp/) for additional details.
 
 ### Organizers
 
-* <b>[Chhavi Yadav](https://scholar.google.com/citations?user=8Dwi76kAAAAJ&hl=en)</b>*, UCSD
-* <b>[Prabhu Pradhan](https://scholar.google.co.in/citations?hl=en&user=cGKDiRMAAAAJ&hl=en)</b>*, Max Planck Institute for Intelligent Systems (MPI-IS)
-* [Abhishek Gupta](https://atg-abhishek.github.io), Montreal AI Ethics Institute / Microsoft
-* [Peter Henderson](https://www.peterhenderson.co/), Stanford University
-* [Ryan Lowe](https://www.cs.mcgill.ca/~rlowe1/), MILA / McGill University
 * [Jessica Forde](https://github.com/jzf2101), Brown University
-* [Jesse Dodge](http://www.cs.cmu.edu/~jessed/), CMU
-* [Mayoore Jaiswal](https://scholar.google.com/citations?user=Ek3v6HcAAAAJ&hl=en), IBM Research
-* [Joelle Pineau](https://www.cs.mcgill.ca/~jpineau/), MILA / McGill University / Facebook AI
-
-*=main correspondence 
+* Aaron (Ari) Bornstein, Bar Ilan University/Grid AI
+* [Margaret Li](https://margs.li/), University of Washington
+* [Koustuv Sinha](https://www.cs.mcgill.ca/~ksinha4/), McGill Univerity/Mila/FAIR
+* [Sasha Luccioni](https://www.sashaluccioni.com/), Université de Montréal/Mila
