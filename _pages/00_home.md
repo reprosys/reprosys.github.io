@@ -57,11 +57,11 @@ Times are listed in EST.
 | Contributed Talk 3 | 09:45-10:00   |
 | Contributed Talk 4 | 10:00-10:15 |
 | Coffee Break | 10:15-10:30 |
-| Posters and Demos 1 | 10:30-11:15 |
-| Panel | 11:15-12:00 |
-| Invited Talk 3 | 12:00-12:30 |
-| Invited Talk 4 | 12:30-13:00 |
-| Lunch Break | 13:00-15:00 |
+| Posters and Demos 1 | 10:30-11:30 |
+| Invited Talk 3 | 11:30-12:00 |
+| Panel | 12:00-12:45 |
+| Invited Talk 4 | 12:45-13:15 |
+| Lunch Break | 13:15-15:00 |
 | Invited Talk 5| 15:00-15:30 |
 | Contributed Talk 5 | 15:30-16:00 |
 | Contributed Talk 6 | 16:00-16:15 |
