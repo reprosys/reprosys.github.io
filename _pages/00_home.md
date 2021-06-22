@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: 
+title:
 desc_title:
 description:
 ---
@@ -19,7 +19,7 @@ Software and Systems for Reproducibility @ [NeurIPS](https://neurips.cc/) 2021 W
 In conjunction with [NeurIPS](https://neurips.cc/), the workshop will be held virtually.  We hope to hold regional meetups in line with public health guidelines.
 
 
-### Confirmed Speakers
+### Confirmed Speakers and Panelists
 
 <table style="width:75%">
   <tr>
@@ -27,20 +27,27 @@ In conjunction with [NeurIPS](https://neurips.cc/), the workshop will be held vi
     <td style="text-align:center"><img src="https://mila.quebec/wp-content/uploads/2016/03/IMG_0012-2-e1584462327833-509x676.jpg" height
     ="175
     "></td>
-
+    <td style="text-align:center"><img src="https://cacioepe.pe/menaces.png" height
+    ="175
+    "></td>
 
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://lorenabarba.com/">Lorena Barba</a> <br>George Washington University</td>
     <td style="text-align:center"><a href="https://bouthilx.github.io/">Xavier Bouthillier</a> <br>Université de Montréal/Mila</td>
+    <td style="text-align:center"><a href="https://cacioepe.pe/">A. Feder Cooper</a> <br>Cornell University</td>
   </tr>
   <tr>
+  <td style="text-align:center"><img src="https://avatars1.githubusercontent.com/u/3640001?v=4" height="175"></td>
+  <td style="text-align:center"><img src="https://gradschool.cornell.edu/wp-content/uploads/2019/06/ChinasaOkoloCrop-822x822.jpg" height="175"></td>
+  <td style="text-align:center"><img src="https://i1.sndcdn.com/artworks-000649470208-gvpq29-t500x500.jpg" height="175"></td>
     <td style="text-align:center"><img src="https://avatars0.githubusercontent.com/u/35882?s=460&v=4" height="175"></td>
-    <td style="text-align:center"><img src="https://i1.sndcdn.com/artworks-000649470208-gvpq29-t500x500.jpg" height="175"></td>
   </tr>
   <tr>
+  <td style="text-align:center"><a href="https://www.williamfalcon.com/">William Falcon</a> <br>NYU/Grid.ai</td>
+  <td style="text-align:center"><a href="http://www.cs.cornell.edu/~chinasa/">Chinasa Okolo</a> <br>Cornell University</td>
+  <td style="text-align:center"><a href="https://www.labri.fr/perso/nrougier/">Nicolas Rougier</a> <br>INRIA</td>
   <td style="text-align:center"><a href="http://rush-nlp.com/">Sasha Rush</a> <br>Cornell/Hugging Face</td>
-    <td style="text-align:center"><a href="https://www.labri.fr/perso/nrougier/">Nicolas Rougier</a> <br>INRIA</td>
   </tr>
 </table>
 
